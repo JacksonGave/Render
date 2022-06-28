@@ -1,0 +1,15 @@
+readme.md
+#MEU PROJETO PARA AULA
+
+C:/Users/Gave/Desktop/Render/.git/
+git config --global user.name "Jackson Gave"
+config user.name
+git config user.name
+
+git config --global user.email "jackson.gave@edu.gov.br"
+git config user.email
+ssh-keygen -t ed25519 -C "jackson.gave@edu.gov.br"
+
+
+
+git remote add origin https://github.com/JacksonGave/Render.git
